@@ -4,7 +4,8 @@ async function main() {
 
   // 替换为你的实际合约地址
 //   const myNFTAddress = "0x4874Afc24A38B157ACa04f4FE3e15E4878DFCdcB"; // ← 填入你的合约地址
-  const myNFTAddress = "0x14688448C43E0fFdEEDD5511a771E1c55742094A"; // ← 填入你的合约地址
+  // const myNFTAddress = "0x14688448C43E0fFdEEDD5511a771E1c55742094A"; // ← 填入你的合约地址
+  const myNFTAddress = "0x00B49d1474dbcF883f41377AeC2eEb7bA8d3bE53"; // ← 填入你的合约地址
 
   //图片元数据CID
   const CID = "ipfs://bafkreibkhroyxrtlpdejxvztwzdmywkv4ebnsv6vyv6pom5fss5bpqdtmm";
